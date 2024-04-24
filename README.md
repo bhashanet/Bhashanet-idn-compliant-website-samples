@@ -1,10 +1,10 @@
 # IDN Compliant Website Samples
 
-Welcome to the IDN Compliant Website Samples repository! This repository contains sample code and resources for creating Internationalized Domain Name (IDN) compliant websites.
+Welcome to the Bhashanet IDN Compliant Website Samples repository! This repository contains sample code and resources for creating Internationalized Domain Name (IDN) compliant websites.
 
 ## What is IDN?
 
-Internationalized Domain Names (IDNs) are domain names that include characters from non-Latin scripts, such as Cyrillic, Arabic, Chinese, etc. IDNs allow internet users to register domain names in their native languages.
+Internationalized Domain Names (IDNs) are domain names that include characters from non-Latin scripts, such as Cyrillic, Arabic, Chinese, Hindi etc. Internationalized Domain Names (IDNs) enable people around the world to use domain names in local languages and scripts.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ The purpose of this repository is to provide developers with examples and best p
 ## Contents
 
 - **Code Samples:** Explore various code snippets and examples demonstrating how to handle IDNs in HTML, CSS, JavaScript, and other relevant technologies.
-- **Resources:** Find useful links, documentation, and tools for working with IDNs and ensuring compliance with relevant standards.
+- **Resources:** Find useful links, SOP's, documentation, and tools for working with IDNs and ensuring compliance with relevant standards.
 - **Contributing:** Interested in contributing to this repository? Check out the contribution guidelines to learn how you can get involved.
 
 ## How to Use
