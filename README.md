@@ -10,13 +10,13 @@ Internationalized Domain Names (IDNs) are domain names that include characters f
 
 The purpose of this repository is to provide developers with examples and best practices for building websites that are compliant with IDN standards. By following these samples, developers can ensure that their websites support IDNs correctly and provide a seamless experience for users across different languages and scripts.
 
-## Contents
+## 📃Contents📃
 
 - **Code Samples:** Explore various code snippets and examples demonstrating how to handle IDNs in HTML, CSS, JavaScript, and other relevant technologies.
 - **Resources:** Find useful links, SOP's, documentation, and tools for working with IDNs and ensuring compliance with relevant standards.
 - **Contributing:** Interested in contributing to this repository? Check out the contribution guidelines to learn how you can get involved.
 
-## How to Use
+## 💁How to Use
 
 Feel free to browse the code samples and resources provided in this repository. You can use them as reference material or integrate them directly into your projects. Make sure to follow best practices and standards to ensure IDN compliance in your websites.
 
@@ -31,7 +31,7 @@ This repository is organized into separate folders for different technology stac
 Each folder follows a similar structure, containing code samples, configuration files, and documentation relevant to the respective technology stack. Feel free to explore the contents of each folder to find the resources you need for your project.
 
 
-## Useful Links
+## ✨Useful Links✨
 
 Here are some additional resources and documentation related to Internationalized Domain Names (IDNs) that you may find helpful:
 
@@ -52,7 +52,7 @@ Here are some additional resources and documentation related to Internationalize
 These links provide valuable information and guidance for working with IDNs and ensuring compliance with relevant standards. Explore them to deepen your understanding and enhance your IDN compliant website development.
 
 
-## Contributing
+## ✋Contributing✋
 
 Your contributions are welcome! Whether it's adding new code samples, improving existing ones, or suggesting additional resources, your input helps make this repository more valuable for developers worldwide. Here's how you can contribute:
 
