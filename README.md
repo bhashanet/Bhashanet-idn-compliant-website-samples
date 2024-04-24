@@ -6,7 +6,7 @@ Welcome to the Bhashanet IDN Compliant Website Samples repository! This reposito
 
 Internationalized Domain Names (IDNs) are domain names that include characters from non-Latin scripts, such as Cyrillic, Arabic, Chinese, Hindi etc. Internationalized Domain Names (IDNs) enable people around the world to use domain names in local languages and scripts.
 
-##  :octocat: Purpose
+##  :octocat:Purpose
 
 The purpose of this repository is to provide developers with examples and best practices for building websites that are compliant with IDN standards. By following these samples, developers can ensure that their websites support IDNs correctly and provide a seamless experience for users across different languages and scripts.
 
