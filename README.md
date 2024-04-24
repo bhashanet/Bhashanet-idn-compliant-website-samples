@@ -20,6 +20,27 @@ The purpose of this repository is to provide developers with examples and best p
 
 Feel free to browse the code samples and resources provided in this repository. You can use them as reference material or integrate them directly into your projects. Make sure to follow best practices and standards to ensure IDN compliance in your websites.
 
+## Useful Links
+
+Here are some additional resources and documentation related to Internationalized Domain Names (IDNs) that you may find helpful:
+
+- **[Bhashanet Technical Corner](https://bhashanet.in/sop_document_page):** Standard Operating Procedure (SOP) documents are detailed instructions or guidelines that outline the step-by-step procedures to be followed for making a website IDN (Internationalized Domain Name) ready within an organization.
+
+- **[ICANN IDN Guidelines](https://www.icann.org/resources/pages/idn-guidelines-2013-08-21-en):** Official guidelines from the Internet Corporation for Assigned Names and Numbers (ICANN) for the implementation and management of IDNs.
+  
+- **[Unicode Technical Standard #46](https://unicode.org/reports/tr46/):** This Unicode Technical Standard provides guidelines and procedures for the use of IDNs.
+
+- **[Punycode Converter](https://www.punycoder.com/):** Online tool for converting Unicode characters to Punycode and vice versa, useful for working with IDNs.
+
+- **[W3C Internationalization (i18n) Activity](https://www.w3.org/International/):** Explore W3C's Internationalization Activity for additional resources and best practices related to web internationalization, including IDNs.
+
+- **[IANA IDN Practices Repository](https://www.iana.org/domains/idn-tables):** Repository maintained by the Internet Assigned Numbers Authority (IANA) containing IDN Tables for various top-level domains (TLDs).
+
+- **[UASG Document Hub](https://uasg.tech/document-hub/):** The UASG is the Universal Acceptance Steering Group. It was founded in February 2015 and tasked with undertaking activities that will effectively promote the Universal Acceptance of all valid domain names and email addresses.
+
+These links provide valuable information and guidance for working with IDNs and ensuring compliance with relevant standards. Explore them to deepen your understanding and enhance your IDN compliant website development.
+
+
 ## Contributing
 
 Your contributions are welcome! Whether it's adding new code samples, improving existing ones, or suggesting additional resources, your input helps make this repository more valuable for developers worldwide. Here's how you can contribute:
