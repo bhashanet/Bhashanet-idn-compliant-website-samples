@@ -20,6 +20,17 @@ The purpose of this repository is to provide developers with examples and best p
 
 Feel free to browse the code samples and resources provided in this repository. You can use them as reference material or integrate them directly into your projects. Make sure to follow best practices and standards to ensure IDN compliance in your websites.
 
+## Folder Structure
+
+This repository is organized into separate folders for different technology stacks, each containing sample code and setup information for building IDN compliant websites:
+
+- **Django:** Contains sample code and setup information for creating IDN compliant websites using the Django web framework. Explore this folder for Django-specific implementations and best practices.
+
+- ** More Sample codes are yet to be uploaded and will be updated in future **
+
+Each folder follows a similar structure, containing code samples, configuration files, and documentation relevant to the respective technology stack. Feel free to explore the contents of each folder to find the resources you need for your project.
+
+
 ## Useful Links
 
 Here are some additional resources and documentation related to Internationalized Domain Names (IDNs) that you may find helpful:
